@@ -1,5 +1,4 @@
 # micro_mm
-
 Toy market-making simulator (QT practice project).
 
 ## Setup
@@ -7,9 +6,9 @@ Toy market-making simulator (QT practice project).
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python run.py
+```
 
-Then verify:
-
+## Run
 ```bash
-cat README.md
+python run.py
+```
